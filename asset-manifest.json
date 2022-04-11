@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DappPractice1/static/css/main.a617e044.chunk.css",
+    "main.js": "/DappPractice1/static/js/main.d151c51d.chunk.js",
+    "main.js.map": "/DappPractice1/static/js/main.d151c51d.chunk.js.map",
+    "runtime-main.js": "/DappPractice1/static/js/runtime-main.0fc4cdac.js",
+    "runtime-main.js.map": "/DappPractice1/static/js/runtime-main.0fc4cdac.js.map",
+    "static/js/2.e65fdaee.chunk.js": "/DappPractice1/static/js/2.e65fdaee.chunk.js",
+    "static/js/2.e65fdaee.chunk.js.map": "/DappPractice1/static/js/2.e65fdaee.chunk.js.map",
+    "static/js/3.3d98988c.chunk.js": "/DappPractice1/static/js/3.3d98988c.chunk.js",
+    "static/js/3.3d98988c.chunk.js.map": "/DappPractice1/static/js/3.3d98988c.chunk.js.map",
+    "index.html": "/DappPractice1/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/DappPractice1/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e65fdaee.chunk.js.LICENSE.txt": "/DappPractice1/static/js/2.e65fdaee.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/DappPractice1/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fc4cdac.js",
+    "static/js/2.e65fdaee.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d151c51d.chunk.js"
+  ]
+}
